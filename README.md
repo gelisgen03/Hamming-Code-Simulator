@@ -15,5 +15,7 @@
 * https://www.geeksforgeeks.org/python-gui-tkinter/
 ### **Photos from Simulation**
 * ![simp1](https://github.com/gelisgen03/Hamming-Code-Simulator/assets/113345673/c0605230-09dc-42c4-b373-e0801225a412)
+----------------------------------------------------
 * ![simp2](https://github.com/gelisgen03/Hamming-Code-Simulator/assets/113345673/04155a87-bbc4-4930-ae4f-df9fb31caf44)
+----------------------------------------------------
 * ![simp3](https://github.com/gelisgen03/Hamming-Code-Simulator/assets/113345673/ca1703ce-f59d-4161-b3c4-356928399134)
