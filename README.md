@@ -1,1 +1,1 @@
-# Hamming-Code-Simulator-
+# Hamming-Code-Simulator
