@@ -3,7 +3,7 @@
 ## **About This Project**
 * This project is about Hamming code simulation using Python language and tkinter G.U.I library.
 * RULES:
-  - There are 3 main parts in the simulation: Welcome message, Bit number selection, Bit entry and results part.
+  - There are 4 main parts in the simulation: Welcome message, Bit number selection, Bit entry and results part.
   - You can calculate the hamming code of 4, 8, 16 bit numbers.
   - You can only write the numbers 0 and 1 to the form elements in the simulation. Otherwise you will get an error message.
 
